@@ -1,1 +1,6 @@
-1	Star Wars: Episodio I - La amenaza fantasma
+Star Wars: Episodio I - La amenaza fantasma
+Star Wars: Episodio II - El ataque de los clones
+Star Wars: Episodio III - La venganza de los Sith
+Star Wars: Episodio IV - Una nueva esperanza
+Star Wars: Episodio V - El Imperio contraataca
+Star Wars: Episodio VI - El retorno del Jedi
